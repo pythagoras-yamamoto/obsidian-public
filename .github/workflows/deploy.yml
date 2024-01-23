@@ -15,16 +15,13 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: 18
-          cache: 'pnpm'
-          cache-dependency-path: ./website/pnpm-lock.yaml
 
-      - name: Install pnpm
-        run: curl -f https://get.pnpm.io/v6.16.js | node - add --global pnpm
-
-      - name: Install dependencies
-        run: |
-          cd website
-          pnpm install --frozen-lockfile
+      - uses: pnpm/action-setup@v2
+        with:
+          version: 6 # Specify the pnpm version you want to use
+          run_install: |
+            - recursive: true
+              args: [--frozen-lockfile, --strict-peer-dependencies]
 
       - name: Build website
         run: |
