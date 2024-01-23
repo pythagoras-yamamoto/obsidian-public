@@ -1,7 +1,3 @@
-@font-face {
-  font-family: 'Lexxend'; /* Provide a name for the font */
-  src: url('Lexend.ttf') format('truetype'); 
-}
 
 :root {
   --ifm-color-primary: #6d54bc;
@@ -19,7 +15,7 @@
   --ifm-menu-color-active: #6d54bc;
   --text-color: #1c1e26;
 
-  --ifm-font-family-base: "Lexxend", sans-serif;
+  --ifm-font-family-base: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --ifm-font-family-monospace: SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
 }
 

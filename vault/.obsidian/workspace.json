@@ -31,9 +31,11 @@
             "id": "f2ea0aa3830000e2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "assets/Drawing _0.excalidraw.md"
+                "file": "docs/main/1. Get started/2. Usage+/usage__en.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -112,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/Drawing _0.excalidraw.md",
+                "file": "docs/main/1. Get started/2. Usage+/usage__en.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "assets/Drawing _0.excalidraw.md",
+                "file": "docs/main/1. Get started/2. Usage+/usage__en.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "assets/Drawing _0.excalidraw.md"
+                "file": "docs/main/1. Get started/2. Usage+/usage__en.md"
               }
             }
           }
@@ -177,16 +179,20 @@
   },
   "active": "f2ea0aa3830000e2",
   "lastOpenFiles": [
+    "docs/main/1. Get started/1. Installation/5. Website Structure+/website_structure__en.md",
+    "docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en.md",
+    "docs/main/1. Get started/1. Installation/1. Required Tools+/required_tools__en.md",
+    "docs/main/1. Get started/1. Installation/2. Setup Git Repo+/setup_git_repo__en.md",
+    "docs/main/1. Get started/1. Installation/3. Docusaurus Installation+/docusaurus_installation__en.md",
+    "assets/Drawing _0.excalidraw.md",
     "assets/Drawing _0.excalidraw.light.svg",
     "assets/Drawing _0.excalidraw.dark.svg",
     "assets/Drawing .excalidraw.md",
-    "assets/Drawing _0.excalidraw.md",
     "assets/three_circles_tet.excalidraw.md",
     "assets/three_circles_tet.excalidraw.dark.svg",
     "assets/three_circles_tet.excalidraw.light.svg",
     "docs/main/2. Features+/1. excalidraw.md",
     "docs/main/2. Features+/0. features__en.md",
-    "docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en.md",
     "assets/1. excalidraw _0.excalidraw.md",
     "assets/1. excalidraw _0.excalidraw.light.svg",
     "assets/obsidiosaurus_run_sucess_notifaction_2.png",
@@ -201,18 +207,15 @@
     "docs/main/0. Introduction+/introduction__de.md",
     "docs/sidebar2/0. Single Language Structure/1. note2.md",
     "docs/sidebar2/0. Single Language Structure/0. note1.md",
-    "docs/main/1. Get started/1. Installation/1. Required Tools+/required_tools__en.md",
     "Untitled.txt",
     "docs/sidebar2/1. Multi Language Strcucture/0. Note1+/note1__en.md",
     "docs/sidebar2/1. Multi Language Strcucture/0. Note1+/note1__de.md",
     "docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+/docusaurus_config__en.md",
-    "docs/main/1. Get started/1. Installation/5. Website Structure+/website_structure__en.md",
     "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__de.md",
     "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md",
     "docs/main/1. Get started/0. quick_start+/quick_start__en 1.md",
     "docs/main/1. Get started/1. Installation/1. Required Tools+/required_tools__en 1.md",
     "docs/main/1. Get started/1. Installation/2. Setup Git Repo+/setup_git_repo__en 1.md",
-    "docs/main/1. Get started/1. Installation/3. Docusaurus Installation+/docusaurus_installation__en 1.md",
     "docs/main/1. Get started/3. Deployment/2. Netlify+",
     "docs/main/1. Get started/3. Deployment/3. Vercel+",
     "docs/main/1. Get started/3. Deployment/1. Github Pages+",
