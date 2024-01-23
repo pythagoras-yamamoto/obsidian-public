@@ -10,23 +10,20 @@ jobs:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-
-      - uses: actions/setup-node@v3
-        with:
-          node-version: 18
+      - uses: actions/checkout@v4
 
       - uses: pnpm/action-setup@v2
         with:
-          version: 6 # Specify the pnpm version you want to use
-          run_install: |
-            - recursive: true
-              args: [--frozen-lockfile, --strict-peer-dependencies]
+          version: 6.32.9
 
-      - name: Build website
-        run: |
-          cd website
-          pnpm run build
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '14'
+          cache: 'pnpm'
+
+      - run: cd website && pnpm install
+
+      - run: cd website && pnpm run build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
