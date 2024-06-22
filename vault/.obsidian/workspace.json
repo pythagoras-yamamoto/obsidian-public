@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/main/1. Get started/2. Usage+/usage__en.md",
+                "file": "blog/authors.yml.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/main/1. Get started/2. Usage+/usage__en.md",
+                "file": "blog/authors.yml.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/main/1. Get started/2. Usage+/usage__en.md",
+                "file": "blog/authors.yml.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/main/1. Get started/2. Usage+/usage__en.md"
+                "file": "blog/authors.yml.md"
               }
             }
           }
@@ -167,18 +167,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidiosaurus:Obsidiosaurus": false
     }
   },
   "active": "f2ea0aa3830000e2",
   "lastOpenFiles": [
+    "docs/main/無題のファイル.canvas",
+    "blog/authors.yml.md",
+    "docs/main/1. Get started/2. Usage+/usage__en.md",
     "docs/main/1. Get started/1. Installation/5. Website Structure+/website_structure__en.md",
     "docs/main/1. Get started/1. Installation/4. Vault Setup+/vault_setup__en.md",
     "docs/main/1. Get started/1. Installation/1. Required Tools+/required_tools__en.md",
@@ -213,9 +216,6 @@
     "docs/main/1. Get started/1. Installation/6. Docusaurus Configuration+/docusaurus_config__en.md",
     "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__de.md",
     "docs/sidebar2/1. Multi Language Strcucture/1. Note2+/note2__en.md",
-    "docs/main/1. Get started/0. quick_start+/quick_start__en 1.md",
-    "docs/main/1. Get started/1. Installation/1. Required Tools+/required_tools__en 1.md",
-    "docs/main/1. Get started/1. Installation/2. Setup Git Repo+/setup_git_repo__en 1.md",
     "docs/main/1. Get started/3. Deployment/2. Netlify+",
     "docs/main/1. Get started/3. Deployment/3. Vercel+",
     "docs/main/1. Get started/3. Deployment/1. Github Pages+",

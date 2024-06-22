@@ -12,8 +12,8 @@ const config = {
   favicon: 'img/favicon.ico',
 
 
-  url: 'https://cimsta.github.io',
-  baseUrl: '/obsidiosaurus-docs/',
+  url: 'https://pythagoras-yamamoto.github.io',
+  baseUrl: '/obsidian-public/',
 
   organizationName: 'cimsta', 
   projectName: 'obsidiosaurus', 
