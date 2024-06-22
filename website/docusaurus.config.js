@@ -13,9 +13,9 @@ const config = {
 
 
   url: 'https://pythagoras-yamamoto.github.io',
-  baseUrl: '/obsidian-public/',
+  baseUrl: '/',
 
-  organizationName: 'cimsta', 
+  organizationName: 'pythagoras-yamamoto', 
   projectName: 'obsidiosaurus', 
   trailingSlash: false,
   onBrokenLinks: 'warn',

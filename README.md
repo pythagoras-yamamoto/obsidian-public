@@ -1,1 +1,1 @@
-deploy test
+deploy test.t
